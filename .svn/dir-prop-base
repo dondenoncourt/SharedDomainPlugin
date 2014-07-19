@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 46
+.idea
+*.iml
+out
+stacktrace.log
+target-eclipse
+
+K 13
+svn:mergeinfo
+V 35
+/SharedDomainPlugin/trunk:2188-2351
+END

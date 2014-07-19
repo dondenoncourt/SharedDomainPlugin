@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/subversion/b2bweb/!svn/ver/864/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/item/share
+END
+DealerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/b2bweb/!svn/ver/459/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/item/share/DealerTests.groovy
+END
+DealerLocationTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/b2bweb/!svn/ver/466/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/item/share/DealerLocationTests.groovy
+END
+DealerInventoryTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/subversion/b2bweb/!svn/ver/459/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/item/share/DealerInventoryTests.groovy
+END

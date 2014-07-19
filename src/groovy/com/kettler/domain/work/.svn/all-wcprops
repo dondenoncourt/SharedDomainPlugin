@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/subversion/b2bweb/!svn/ver/1025/SharedDomainPlugin/trunk/src/groovy/com/kettler/domain/work
+END
+DateUtils.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/b2bweb/!svn/ver/245/SharedDomainPlugin/trunk/src/groovy/com/kettler/domain/work/DateUtils.groovy
+END
+Constants.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/b2bweb/!svn/ver/1025/SharedDomainPlugin/trunk/src/groovy/com/kettler/domain/work/Constants.groovy
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/b2bweb/!svn/ver/3485/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share
+END
+Consumer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/b2bweb/!svn/ver/1931/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Consumer.groovy
+END
+SalesPerson.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subversion/b2bweb/!svn/ver/358/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/SalesPerson.groovy
+END
+InvoicedOrderDetailItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/InvoicedOrderDetailItem.groovy
+END
+ConsumerBillTo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/b2bweb/!svn/ver/2668/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ConsumerBillTo.groovy
+END
+InvoicedOrderDetailComment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/InvoicedOrderDetailComment.groovy
+END
+CreditCardClient.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/b2bweb/!svn/ver/595/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/CreditCardClient.groovy
+END
+CommercialBin.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/subversion/b2bweb/!svn/ver/553/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/CommercialBin.groovy
+END
+ShipTo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/b2bweb/!svn/ver/1588/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ShipTo.groovy
+END
+OrderDetailMisc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/OrderDetailMisc.groovy
+END
+WebUser.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/b2bweb/!svn/ver/3489/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/WebUser.groovy
+END
+Control.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/b2bweb/!svn/ver/358/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Control.groovy
+END
+OrderDetailComment.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/OrderDetailComment.groovy
+END
+GiftCard.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/b2bweb/!svn/ver/2353/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/GiftCard.groovy
+END
+OrderHeader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/b2bweb/!svn/ver/1170/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/OrderHeader.groovy
+END
+Carrier.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/b2bweb/!svn/ver/1379/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Carrier.groovy
+END
+InvoicedOrderDetailMisc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/InvoicedOrderDetailMisc.groovy
+END
+Role.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/b2bweb/!svn/ver/3522/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Role.groovy
+END
+ShipToZone.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/subversion/b2bweb/!svn/ver/739/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ShipToZone.groovy
+END
+ShipVia.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ShipVia.groovy
+END
+ShipToZoneState.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/b2bweb/!svn/ver/814/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ShipToZoneState.groovy
+END
+Coupon.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/b2bweb/!svn/ver/1891/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Coupon.groovy
+END
+InvoicedOrderHeader.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/InvoicedOrderHeader.groovy
+END
+PartsServiceOrder.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/subversion/b2bweb/!svn/ver/3121/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/PartsServiceOrder.groovy
+END
+CartItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/b2bweb/!svn/ver/2363/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/CartItem.groovy
+END
+OrderDiscountAllowance.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/subversion/b2bweb/!svn/ver/1986/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/OrderDiscountAllowance.groovy
+END
+OrderDetailItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/subversion/b2bweb/!svn/ver/3182/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/OrderDetailItem.groovy
+END
+UserControl.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subversion/b2bweb/!svn/ver/675/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/UserControl.groovy
+END
+ReasonCode.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/subversion/b2bweb/!svn/ver/357/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ReasonCode.groovy
+END
+ConsumerShipTo.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/subversion/b2bweb/!svn/ver/817/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/ConsumerShipTo.groovy
+END
+SalesTax.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/subversion/b2bweb/!svn/ver/2668/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/SalesTax.groovy
+END
+Cart.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/b2bweb/!svn/ver/3365/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/orderentry/share/Cart.groovy
+END

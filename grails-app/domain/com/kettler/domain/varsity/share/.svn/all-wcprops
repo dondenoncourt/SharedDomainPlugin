@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/b2bweb/!svn/ver/1325/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/varsity/share
+END
+Packer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/subversion/b2bweb/!svn/ver/1325/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/varsity/share/Packer.groovy
+END
+ShippingManifest.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/subversion/b2bweb/!svn/ver/1325/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/varsity/share/ShippingManifest.groovy
+END

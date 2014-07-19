@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/b2bweb/!svn/ver/1025/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share
+END
+ConsumerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/subversion/b2bweb/!svn/ver/864/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share/ConsumerTests.groovy
+END
+CouponTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/subversion/b2bweb/!svn/ver/384/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share/CouponTests.groovy
+END
+ConsumerBillToTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/b2bweb/!svn/ver/1025/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share/ConsumerBillToTests.groovy
+END
+ShipToZoneStateTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/b2bweb/!svn/ver/400/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share/ShipToZoneStateTests.groovy
+END
+ShipToZoneTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/subversion/b2bweb/!svn/ver/400/SharedDomainPlugin/trunk/test/unit/com/kettler/domain/orderentry/share/ShipToZoneTests.groovy
+END

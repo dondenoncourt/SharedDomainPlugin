@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/b2bweb/!svn/ver/901/SharedDomainPlugin/trunk/test/integration/com/kettler/domain/orderentry/share
+END
+CartTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/subversion/b2bweb/!svn/ver/864/SharedDomainPlugin/trunk/test/integration/com/kettler/domain/orderentry/share/CartTests.groovy
+END
+CreditCardEncryptDecryptTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/subversion/b2bweb/!svn/ver/901/SharedDomainPlugin/trunk/test/integration/com/kettler/domain/orderentry/share/CreditCardEncryptDecryptTests.groovy
+END

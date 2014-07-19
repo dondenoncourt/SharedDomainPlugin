@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 57
+test-classes
+test-reports
+ddl.sql
+classes
+stacktrace.log
+
+END

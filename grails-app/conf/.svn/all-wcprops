@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/subversion/b2bweb/!svn/ver/1379/SharedDomainPlugin/trunk/grails-app/conf
+END
+DataSource.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/1379/SharedDomainPlugin/trunk/grails-app/conf/DataSource.groovy
+END
+UrlMappings.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/245/SharedDomainPlugin/trunk/grails-app/conf/UrlMappings.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/subversion/b2bweb/!svn/ver/245/SharedDomainPlugin/trunk/grails-app/conf/Config.groovy
+END
+Searchable.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/subversion/b2bweb/!svn/ver/245/SharedDomainPlugin/trunk/grails-app/conf/Searchable.groovy
+END
+BuildConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/b2bweb/!svn/ver/245/SharedDomainPlugin/trunk/grails-app/conf/BuildConfig.groovy
+END

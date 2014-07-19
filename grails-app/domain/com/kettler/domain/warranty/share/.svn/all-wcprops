@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/b2bweb/!svn/ver/1979/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/warranty/share
+END
+WarrantyItem.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subversion/b2bweb/!svn/ver/1979/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/warranty/share/WarrantyItem.groovy
+END
+WarrantyCustomer.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/subversion/b2bweb/!svn/ver/1959/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/warranty/share/WarrantyCustomer.groovy
+END
+WarrantyPeriod.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/subversion/b2bweb/!svn/ver/818/SharedDomainPlugin/trunk/grails-app/domain/com/kettler/domain/warranty/share/WarrantyPeriod.groovy
+END
